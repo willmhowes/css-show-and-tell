@@ -1,3 +1,12 @@
 .wrapper {
     display: grid;
+    width: 800px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 100px 100px 100px;
+}
+
+.wrapper div {
+    background-color: burlywood;
+    border: solid 1px black;
+    padding: 10px;
 }
