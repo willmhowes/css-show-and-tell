@@ -1,1 +1,5 @@
 # css-show-and-tell
+
+For my show and tell, I researched CSS grids, which can be activated as a value for the 'display' property. CSS grids are essentially a much-improved version of HTML tables because they are far more flexible in how they are able to organize web content; they allow for overlapping content, modular layouts, and best of all, the spec is supported by all major browsers (they are plenty more exciting features I won't get into). Of note, the near-ubiquitous support the spec recieves today was adopted within the timespan of a year from it's intial release date back in 2016, something which is practically unheard of for new web technologies.
+
+[Here](https://alistapart.com/article/the-story-of-css-grid-from-its-creators) is an interesting link about the history of CSS Grids, and [here](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) is the official Mozilla documentation on the spec. I followed [this guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout) to gain a general understanding of how the grids are implemented.
